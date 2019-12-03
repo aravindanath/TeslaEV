@@ -1,0 +1,7 @@
+2019-12-02 08:45:28,455 User is learning logger!
+2019-12-02 08:45:28,456 Number cant div by zero
+Traceback (most recent call last):
+  File "/Users/aravindanathdm/Documents/TeslaEV/PycharmProjects/PythonSeleniumAutoAugSep/learninglogger/demoLog.py", line 16, in <module>
+    s =i/j
+ZeroDivisionError: division by zero
+2019-12-02 08:45:28,457 User learnt the logger
