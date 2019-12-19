@@ -10,3 +10,4 @@ from selenium.webdriver import Firefox
 path = "../driver/geckodriver"
 
 driver = Firefox(executable_path=path)
+
