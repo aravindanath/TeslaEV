@@ -1,0 +1,1 @@
+# //input[@type='password' and @id='pass']//following::td/label
