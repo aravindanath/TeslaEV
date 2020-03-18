@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python_Framework/.idea/PythonPOM.iml" filepath="$PROJECT_DIR$/../python_Framework/.idea/PythonPOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonSeleniumProject/.idea/PythonSeleniumProject.iml" filepath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/PythonSeleniumProject.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Target2020PyAuto/.idea/Target20.iml" filepath="$USER_HOME$/Documents/Target2020PyAuto/.idea/Target20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Target2020/.idea/Target2020.iml" filepath="$PROJECT_DIR$/../Target2020/.idea/Target2020.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Target2020PyAuto/.idea/Target2020PyAuto.iml" filepath="$USER_HOME$/Documents/Target2020PyAuto/.idea/Target2020PyAuto.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/class/Python Selenium/TeslaEV/.idea/TeslaE.iml" filepath="$USER_HOME$/Documents/class/Python Selenium/TeslaEV/.idea/TeslaE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/virginia2020.iml" filepath="$PROJECT_DIR$/.idea/virginia2020.iml" />
+    </modules>
+  </component>
+</project>
